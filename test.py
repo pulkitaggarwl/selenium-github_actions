@@ -66,7 +66,7 @@ class LoginForm(unittest.TestCase):
             raise
             
             
-       def test_CBT1(self):
+    def test_CBT1(self):
     
         try:
             self.driver.get('http://crossbrowsertesting.github.io/login-form.html')
