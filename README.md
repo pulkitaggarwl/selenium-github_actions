@@ -10,7 +10,7 @@
 <p>3. Make the following changes to the workflow .yml file and commit</p>
 <p><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2019/11/github_actions_pythonyml.png" /></p>
 <pre><code>name: Python package
-on: [push]
+on: [push] 
 
 jobs:
   build:
