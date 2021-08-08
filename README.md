@@ -1,4 +1,4 @@
-<h1>Getting Started with GitHub Actions and CrossBrowserTesting</h1>
+<h1>Getting Started with GitHub Actions and CrossBrowserTesting</h1> 
 <p><em>For this document, we provide all example files in our <a href="https://github.com/crossbrowsertesting/selenium-github_actions">GitHub Actions GitHub Repository</a>.</em></p>
 <p><a href="https://github.com/features/actions">GitHub Actions</a> is a CI/CD tool that lets you automate your development process.  <a href="https://github.com/features/actions">GitHub Actions</a> lets you build, test, and deploy your code all from GitHub quickly, safely, and at scale.  Every time you push, a build is created and automatically run, allowing you to easily test every commit.</p>
 <p>In this guide we will use GitHub Actions for testing using the <a href="https://www.seleniumhq.org/">Selenium Webdriver</a> and <a href="https://www.python.org/">Python</a> programming language.</p>
